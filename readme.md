@@ -3,6 +3,8 @@
 Este es mi Zsh theme el cual hice basandome en los themes candy, aussiegeek, bira y dieter
 los cuales estan incluidos en  [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh "OhMyZsh")
 
+Aqui puedes ver una [Captura](https://github.com/jesusangelm/Jam-Zsh-Theme/blob/master/jamzshtheme.jpeg "captura")
+
 El theme muestra la siguiente informacion:
 
  * Usuario y host coloreados.
