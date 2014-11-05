@@ -1,5 +1,5 @@
 local user="%(!.%{$fg[blue]%}.%{$fg_bold[blue]%})%n%{$reset_color%}"
-local host="@${host_repr[$(hostname)]:-$(hostname)}%{$reset_color%}"
+local host="%{$fg_bold[white]%}@%M"
 local time="%{$fg[blue]%}%D{[%I:%M:%S]}"
 local dir="%{$reset_color%}%{$fg[white]%}[%~]%{$reset_color%}"
 
